@@ -1,0 +1,9 @@
+{
+  "name": "js-react_learning",
+  "version": "0.0.0",
+  "description": "JsReact_Learning",
+  "main": "server.js",
+  "author": {
+    "name": "HK_06"
+  }
+}
